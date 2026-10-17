@@ -1,0 +1,7 @@
+torch
+transformers
+scikit-learn
+numpy
+Pillow
+joblib
+datasets
